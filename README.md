@@ -1,16 +1,38 @@
-# React + Vite
+# 🍔 QuickBite – Food Delivery Web Application
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+QuickBite is a modern and responsive food delivery web application built using React.js. The application provides an interactive interface for users to browse food items, explore categories, manage their cart, and enjoy a seamless food ordering experience.
 
-Currently, two official plugins are available:
+## 🚀 Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Responsive and user-friendly interface
+- Browse a variety of food items
+- Food categories and filtering
+- Add and remove items from the cart
+- Cart management and price calculation
+- Modern and interactive UI
 
-## React Compiler
+## 🛠️ Technologies Used
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- Vite
 
-## Expanding the ESLint configuration
+## 📂 Project Structure
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The project is organized using reusable React components to provide a clean and maintainable codebase.
+
+## 💻 Installation
+
+1. Clone the repository:
+https://github.com/tanishkasharma0204-svg/QuickBite---Food-Delivery-Web-Application
+
+2. Navigate to the project folder:
+cd Food-Delivery-Website
+
+3. Install dependencies:
+npm install
+
+4. Run the application:
+npm run dev
